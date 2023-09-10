@@ -1,2 +1,3 @@
 # Excell-Challenge
-HW1 Test Demo
+Callenge 1 excel spreadsheet
+Challenge 1 word document that contains written report
